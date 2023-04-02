@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stopwatch with Productivity Timer</string>
+    <string name="resetButton">Reset</string>
+    <string name="startButton">Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="settings_message">Set upper limits in seconds</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

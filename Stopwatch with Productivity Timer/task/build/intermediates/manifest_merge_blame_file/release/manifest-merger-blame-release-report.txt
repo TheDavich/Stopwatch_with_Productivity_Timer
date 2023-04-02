@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.hyperskill.stopwatch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="20"
+8-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:5:3-19:17
+12        android:allowBackup="true"
+12-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:6:7-33
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.6.0] /Users/davud/.gradle/caches/transforms-3/13b6e296f82da9602b548d15de540ef1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:7:7-41
+15        android:label="@string/app_name"
+15-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:8:7-39
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:9:7-52
+17        android:supportsRtl="true"
+17-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:10:7-33
+18        android:theme="@style/AppTheme" >
+18-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:11:7-38
+19        <activity android:name="org.hyperskill.stopwatch.MainActivity" >
+19-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:12:5-18:16
+19-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:12:15-67
+20            <intent-filter>
+20-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:13:7-17:23
+21                <action android:name="android.intent.action.MAIN" />
+21-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:14:9-61
+21-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:14:17-58
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:16:9-69
+23-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:16:19-66
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

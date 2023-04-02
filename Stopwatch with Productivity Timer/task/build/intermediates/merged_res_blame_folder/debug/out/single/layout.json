@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog.xml",
+        "source": "/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/src/main/res/layout/activity_main.xml"
+    }
+]

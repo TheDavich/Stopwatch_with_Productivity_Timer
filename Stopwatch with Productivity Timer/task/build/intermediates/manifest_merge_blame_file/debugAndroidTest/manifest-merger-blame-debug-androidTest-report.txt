@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.hyperskill.stopwatch.test" >
+4
+5    <uses-sdk
+5-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:5:5-74
+6        android:minSdkVersion="20"
+6-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:11:5-15:74
+10        android:name="com.edu.AndroidEduTestRunner"
+10-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:11:22-65
+11        android:functionalTest="false"
+11-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:13:22-53
+13        android:label="Tests for org.hyperskill.stopwatch"
+13-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:15:22-72
+14        android:targetPackage="org.hyperskill.stopwatch" />
+14-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:12:22-70
+15
+16    <application android:debuggable="true" >
+16-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:8:9-60
+17-->/Users/davud/AndroidStudioProjects/Stopwatch with Productivity Timer3/Stopwatch with Productivity Timer/task/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13390063089130957262.xml:8:23-57
+18    </application>
+19
+20</manifest>
